@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="MLknob.svg"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 5.9785624 5.9785624"
+   height="5.9785624mm"
+   width="5.9785624mm">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:window-height="943"
+     inkscape:window-width="1252"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="g6131"
+     inkscape:document-units="mm"
+     inkscape:cy="21.018986"
+     inkscape:cx="5.1136132"
+     inkscape:zoom="5.5409918"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-12.302386,-7.0107189)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-12.302386,-7.0107189)"
+     inkscape:groupmode="layer"
+     inkscape:label="Knobs Group"
+     id="knobs-group">
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="MLKnob"
+       id="g3335">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Skirt"
+         id="g3322" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Vintage knob"
+         id="g3326" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Main color"
+         id="g3329" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Tick"
+         id="g3333" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="MLKnob"
+       id="g6137">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Vintage knob"
+         id="g6127" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Main color"
+         id="g6131">
+        <g
+           id="g6151">
+          <path
+             id="path3324"
+             style="fill:#20221e;stroke:#20221e;stroke-width:0.5"
+             sodipodi:r2="2.77"
+             sodipodi:r1="2.6500001"
+             sodipodi:sides="8"
+             inkscape:rounded="0.5"
+             sodipodi:arg2="1.3"
+             sodipodi:arg1="0.85"
+             sodipodi:cy="10"
+             sodipodi:cx="15.291667"
+             sodipodi:type="star"
+             inkscape:flatsided="false"
+             inkscape:randomized="0"
+             d="m 17.040622,11.990893 c -0.478569,0.374107 -0.432946,0.482419 -1.007983,0.678163 -0.431855,0.147004 -0.459244,0.03089 -0.912048,-0.02458 -0.602932,-0.07387 -0.647261,0.03498 -1.192286,-0.233218 -0.409315,-0.20142 -0.346576,-0.302892 -0.627531,-0.662299 -0.374107,-0.478569 -0.482419,-0.432946 -0.678163,-1.007983 -0.147004,-0.431855 -0.03089,-0.459244 0.02458,-0.9120478 0.07387,-0.6029327 -0.03498,-0.6472608 0.233218,-1.1922858 0.20142,-0.4093151 0.302892,-0.3465767 0.662299,-0.6275315 0.478569,-0.3741064 0.432946,-0.4824191 1.007983,-0.6781631 0.431855,-0.1470042 0.459244,-0.03089 0.912048,0.024584 0.602932,0.073866 0.647261,-0.034983 1.192286,0.2332184 0.409315,0.2014198 0.346576,0.3028918 0.627531,0.6622985 0.374107,0.4785692 0.482419,0.432946 0.678163,1.0079836 0.147004,0.4318548 0.03089,0.4592436 -0.02458,0.9120478 -0.07387,0.602932 0.03498,0.647261 -0.233218,1.192286 -0.20142,0.409315 -0.302892,0.346576 -0.662299,0.627531 z" />
+          <circle
+             style="fill:#363a40;stroke:#20221e;stroke-width:0"
+             id="circle6129"
+             r="2.25"
+             cy="10"
+             cx="15.291667" />
+        </g>
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Tick"
+         id="g6135" />
+    </g>
+  </g>
+</svg>
